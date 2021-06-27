@@ -1,0 +1,67 @@
+.menu {
+    margin-top: 0px;
+    font-family: sans-serif;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    cursor: pointer;
+    z-index: 9;
+    background-color: white;
+}
+
+.links {
+    display: inline;
+
+
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 20px;
+    font-family: 'Pattaya', sans-serif;
+    color: #f50707;
+}
+
+.links:hover {
+    background-color: greenyellow;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+a {
+    text-decoration: none;
+    color: aqua;
+    text-shadow: 2px 2px gainsdoro;
+}
+
+#campus {
+    text-align: center;
+}
+
+#achieve {
+    text-align: center;
+
+}
+
+#new {
+    text-align: center;
+}
+
+#contact {
+    background: firebrick;
+
+}
+
+#alumni {
+    text-align: center;
+}
+
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+
+input {
+    background: grey;
+}

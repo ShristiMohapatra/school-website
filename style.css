@@ -186,3 +186,8 @@ h2{
 movie_text span{
     color: #ff7700
 }
+.fa-fa instagram{
+    height: 30px;
+    width:30px;
+    border-radius: 15px;
+}

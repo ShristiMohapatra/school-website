@@ -141,3 +141,19 @@ h2{
     float: left;
     padding-top: 5px; 
 }
+.environment_li {
+    margin-top: 20px;
+}
+
+.environment_li h4 {
+    border-bottom: 1px solid white;
+    padding: 9px;
+}
+
+.environment_li img {
+    border-radius: 30px;
+}
+
+.environment_li p {
+    margin-top: 10px;
+}

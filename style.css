@@ -186,3 +186,11 @@ background-color: white;
 .modal-body {
     text-align: center;
 }
+
+.modal-header{
+    margin-top: 20px;
+}
+
+.alumnist img{
+    height:250px;
+}
